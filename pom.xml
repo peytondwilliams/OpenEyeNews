@@ -11,9 +11,3 @@
 
 </project>
 
-<dependency>
-<groupId>com.aylien.newsapi</groupId>
-<artifactId>client</artifactId>
-<version>0.5.1</version>
-<scope>compile</scope>
-</dependency>
